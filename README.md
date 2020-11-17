@@ -4,7 +4,7 @@
  <i>The Pomodoro Technique is a method of managing time developed by Francesco Cirillo in the late 1980s. The technique uses a timer to divide the work into intervals, traditionally 25 minutes long, separated by short breaks. Each interval is known as a tomato referring to the shape of the tomato-shaped kitchen timer that Cyril used when he was a college student.</i>
 
 
-<p> All the Code Was written in python using the "tkinter" library for the GUI </p>
+<p> All the Code Was written in <strong><i>python</strong></i> using the "tkinter" library for the GUI </p>
 
  <ul>
  <li>You set the Pomodoro timer (traditionally to 25 minutes).</li>
